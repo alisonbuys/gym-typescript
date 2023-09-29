@@ -11,19 +11,18 @@ import Class from "./Class";
 
 const classes: Array<ClassType> = [
   {
-    name: "Weight Training Classes",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    name: " Message App",
+    description: "A simple WhatsApp clone built with react.",
     image: image1,
   },
   {
-    name: "Yoga Classes",
+    name: "Todo App ",
+    description: "A simple Todo clone built with react.",
     image: image2,
   },
   {
-    name: "Ab Core Classes",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    name: "Pyramid App",
+    description: "A simple Number Pyramid clone built with react.",
     image: image3,
   },
   {
